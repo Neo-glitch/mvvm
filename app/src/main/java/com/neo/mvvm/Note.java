@@ -4,6 +4,8 @@ package com.neo.mvvm;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
+
+
 /**
  * Entity class( used for db table, by default table name is name of the class)
  */
